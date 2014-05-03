@@ -1,0 +1,145 @@
+Ctrl+O ：Open
+Ctrl+P ：Print
+Ctrl+N ：New
+Ctrl+Shift+F2 ：清除所有书签
+F2：上一个书签
+Shift+F2：上一个书签
+Alt+F2 ：编辑书签
+Ctrl＋F2：添加/删除一个书签
+F12：Goto definition
+Shift+F12：Goto reference
+Ctrl+'Num+'：Displays the next symbol definition or reference
+Ctrl+'Num-'：Displays the previous symbol definition or reference
+Ctrl+J/K：寻找上一个/下一个预编译条件
+Ctrl+Shift+J/K ：寻找上一个/下一个预编译条件并将这一块选定
+Ctrl+End：文档尾
+Ctrl+Shift+End ：选定从当前位置到文档尾
+Ctrl+Home：文档头
+Ctrl+Shift+Home ：选定从当前位置到文档头
+Ctrl+B/Alt+F9 ：编辑断点
+Alt+F3/Ctrl+F ：查找
+F3：查找下一个
+Shift+F3：查找上一个
+Ctrl+]/Ctrl+E ：寻找下一半括弧
+Ctrl+Shift+] ：寻找下一半括弧并选定括弧之间的部分（包括括弧）
+Ctrl+Shift+E ：寻找下一半括弧并选定括弧之间的部分（包括括弧）
+F4：寻找下一个错误/警告位置
+Shift+F4：寻找上一个错误/警告位置
+Shift+Home：选定从当前位置到行首
+Shift+End：选定从当前位置到行尾
+Ctrl+L ：剪切当前行
+Ctrl+Shift+L ：删除当前行
+Alt+Shift+T：交换当前行和上一行
+Ctrl+Alt+T：Brings up the completion list box
+Shift+PageDown ：选定从当前位置到下一页当前位置
+Shift+PageUp ：选定从当前位置到上一页当前位置
+Ctrl+Shift+Space：显示函数参数的Tooltip
+Ctrl+Z/Alt+Backspace ：Undo
+Ctrl+Shift+Z/Ctrl+Y ：Redo
+F8：当前位置变成选定区域的头/尾（再移动光标或者点鼠标就会选定）
+Ctrl+Shift+F8 ：当前位置变成矩形选定区域的头/尾（再移动光标或者点鼠标就会选定）
+Alt+F8 ：自动格式重排
+Ctrl+G ：Goto
+Ctlr+X/Shift+Del：Cut
+Ctrl+C/Ctrl+Ins ：Copy
+Ctrl+V/Shift+Ins：Paste
+Ctrl+U ：将选定区域转换成小写
+Ctrl+Shift+U ：将选定区域转换成大写
+Ctrl+F8 ：当前行变成选定区域的头/尾（再移动上下光标或者点鼠标就会选定多行）
+Ctrl+Shift+L ：删除从当前位置到行尾
+Ctrl+Shift+8 ：将所有Tab变成`或者还原
+Ctrl+T ：显示变量类型
+Ctrl+↑ ：向上滚屏
+Ctrl+↓ ：向下滚屏
+Ctrl+Del：删除当前单词的后半截（以光标为分割）
+Ctrl+Backspace ：删除当前单词的前半截（以光标为分割）
+Ctrl+← ：移到前一个单词
+Ctrl+→ ：移到后一个单词
+Ctrl+Shift+← ：选定当前位置到前一个单词
+Ctrl+Shift+→ ：选定当前位置到后一个单词
+Ctrl+Shift+T ：将本单词和上一个单词互换
+
+
+Alt+0 ：Workspace Window
+Alt+2 ：Output Window
+Alt+3 ：Watch Window
+Alt+4 ：Variables Window
+Alt+5 ：Registers Window
+Alt+6 ：Memory Window
+Alt+7 ：CallStack Window
+Alt+8 ：Disassembly Window
+Ctrl+W ：ClassWizard
+Alt+Enter：属性
+
+Alt+F7 ：Project Settings
+
+F7：Build
+Ctrl+F7 ：Compile
+Ctrl+F5 ：Run
+Ctrl+Break：Stops the build
+F5：Go
+Ctrl+F10：Run to cursor
+F11：step into
+Alt+F10 ：Apply codes changes
+Ctrl+F9 ：Enable/Disable a breakpoint
+Alt+F11 ：将 Memory Window 切换到下一种显示模式
+Alt+Shift+F11 ：将 Memory Window 切换到上一种显示模式
+Ctrl+Shift+F9 ：去掉所有断点
+Ctrl+Shift+F5 ：Restarts the program
+Ctrl+Shift+F10 ：将当前行设为下一条指令执行的行
+Alt+Num*：滚动到当前指令
+Shift+F11：跳出当前函数
+F9：断点
+F10：step over
+Shift+F5：停止 Debugging
+Ctrl+F11：Switches between the source view and the disassembly view for this instruction
+Alt+F12 ：Queries on the selected object or current context
+	
+Alt+F6 ：Toggles the docking feature for the window on/off
+Shift+Esc：隐藏窗口
+
+Ctrl + F3 向下查找下一个当前光标所在位置的单词
+Ctrl + Shift + F3 向上查找下一个当前光标所在位置的单词
+
+Ctrl+Shift+G ：？
+Ctrl+* ：？
+Ctrl+Space：？
+Ctrl+F3 ：？
+Ctrl+Shift+F3 ：？
+Ctrl+D ：？
+Ctrl+I ：？
+Ctrl+Shift+I ：？
+F6：？Activates the next pane
+Shift+F6：？Activates the previous pane
+Ctrl+M ：？Detects duplicate mnemonics in the resource
+
+
+
+Ctrl＋TAB
+Ctrl＋u:大写变小写
+Ctrl＋SHIFT+u:小写变大写
+Ctrl＋}括号配对
+
+
+
+
+以下是资源操作快捷键
+Ctrl + 1 New Dialog
+Ctrl + 2 New Menu
+Ctrl + 3 New Cursor
+Ctrl + 4 New Icon
+Ctrl + 5 New Bitmap
+Ctrl + 6 New Toolbar
+Ctrl + 7 New Accelerator
+Ctrl + 8 Open String Table
+Ctrl + 9 Open Version Info
+
+Ctrl + F3 向下查找下一个当前光标所在位置的单词
+Ctrl + Shift + F3 向上查找下一个当前光标所在位置的单词
+
+Ctrl + D 激活工具条中显示查询内容的ComboBox
+Ctrl + I 增量查找
+Ctrl + Shift + I 反向增量查找
+Ctrl + Space 输入法
+ 
+ 
